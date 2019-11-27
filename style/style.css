@@ -13,5 +13,12 @@
 .fc-coffee { color: #998675; }
 .fc-ciment { color: #898989; }
 
+.hover-line { 
+    border-bottom: 2px solid #a67c52;
+    width: 65px;
+    position: relative;
+    top: 30px;
+    margin: 0 auto;
+ }
 
 .inline-block { display: inline-block; }
