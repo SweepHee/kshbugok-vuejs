@@ -1,0 +1,21 @@
+h3 {
+    font-size: 21px;
+    font-weight: bold;
+}
+
+nav {
+    display :inline-block;
+}
+
+ul li {
+    display: inline-block;
+    list-style-type: none;
+}
+
+a {
+    text-decoration: none;
+}
+
+a:hover, a:visited, a:link {
+    color: #363636;
+}

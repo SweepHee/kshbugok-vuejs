@@ -1,0 +1,17 @@
+
+
+.container-xl {
+    width: 1780px;
+    margin:0 auto;
+}
+
+
+
+.fs14 { font-size:14px; }
+
+.fc-brown { color: #534741; }
+.fc-coffee { color: #998675; }
+.fc-ciment { color: #898989; }
+
+
+.inline-block { display: inline-block; }
