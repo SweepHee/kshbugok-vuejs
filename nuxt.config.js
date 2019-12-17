@@ -1,6 +1,6 @@
 module.exports = {
     head: {
-        title: 'NodeBird',
+        title: 'NodeBirds',
         meta: [{
             charset: 'utf-8',
         }, {
