@@ -59,4 +59,5 @@ typings/
 
 # next.js build output
 .next
-img
+bugok.pem
+test.pem
