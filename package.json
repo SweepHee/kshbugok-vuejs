@@ -4,7 +4,9 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "dev": "nuxt"
+    "dev": "nuxt",
+    "build": "nuxt build", // 빌드해줌
+    "start": "nuxt start"  // 빌드된걸 실행.
   },
   "author": "",
   "license": "ISC",
